@@ -1,0 +1,158 @@
+1:As %s, a knight fresh out of the barracks, you came back to your native village to protect it. In this beautiful morning, you wake up in your bed.
+2:Wake up and stand up
+3:Keep sleeping
+4:Well played! You chose the best option: by sleeping, problems cannot reach you. You discovered the secret ending. GAME OVER (Happy Ending).
+
+
+10:After training and your guard tour, you take a break to eat. Far away, a group of people is forming: the King's messenger is here and searching for %s. You go there and he give you a royal letter.
+11:Open the letter and read it
+12:Do not open it and throw it away
+13:Unfortunately, refusing a royal order is a crime. The King ordered your immediate execution. This is the end for you. Maybe a lack of skill? GAME OVER.
+
+
+20:To our loyal subject %s. Know that a terrible landslide shaked the Northern Mountains. From the dust, an ancient Fortress, forgotten by men, appeared. We order you to go there without delay, to brave its dangers and discover its mysteries for the Crown.
+
+
+30:Having accepted the mission, you rush to prepare for adventure. %s receive an iron sword, a full iron armor and a backpack for the trip.
+31:Go towards the mountains
+
+
+40:The travel was long. You are at the foot of this huge mountain. Around you, piles of rubble are on the ground; it looks like the mountain exploded from inside. Through the rocks, you can see an entrance covered of moss, but accessible.
+41:Take your courage in two hands and enter the dungeon
+42:Take a nap and sleep under the trees before going in
+43:After your nap, you feel much better. After this hard and long trip, this rest was good. %s receives +1 Strength and +1 Health. You are ready to enter.
+
+
+50:You arrive in a huge entrance with beautiful columns going up to the ceiling. Even if the place is under the mountain, a soft light comes through holes in the walls. You can see stairs at the back, but also cupboards and wooden crates.
+51:Take the stairs
+52:Search the room
+53:You decide to search the room. On your right is a row of cupboards with many dusty manuscripts. On your left, wooden crates are against a pillar. Finally, in the center, a pile of rocks looks movable.
+54:Search the cupboards full of old books
+55:Search the wooden crates on your left
+56:Move the pile of rocks in the middle
+
+
+60:While searching, a book attracts your attention: it is without dust. You pull it and a loud noise happens! The wall shakes and the cupboard pivots, revealing a dark and scary passage. Your soul scream to enter despite the fear.
+61:You break the crates one by one with your sword. Suddenly, your blade hit something. You take the object: %s receives a Health Potion!
+62:Moving the pile of dirt reveals... nothing. There was absolutely nothing under it. Disappointed and frustrated to have loose your time, you go to the stairs.
+
+
+70:You go down the hard and humid steps one by one. You feel that you are going deeper in the mountain. A pressure and a cold feeling govern this place. The darkness intensifies, but you continue until you arrive at Floor -1.
+71:You arrive in a big crypt. The air is heavy, with a smell of copper and rot. The only light comes from magic mushrooms on the walls, creating weird shadows. Three ways are in front of you.
+72:Take the left arch, where wet chewing noises come from
+73:Go to the center altar, where something is shining
+74:Go to the right, towards the heavy iron door
+
+
+80:After the cupboard opens, a huge wind hit your face. Even if it is hot, your body stays frozen by fear. Too late to go back, you run into the dark stairs. The spiral staircase seems to go down forever and the air becomes sulfurous. You realize you are bypassing a whole level.
+
+
+90:You finally arrive in a corridor made of black volcanic rock. The heat is crushing. You arrived directly on Floor -2.
+
+100:You enter the dark room, barely lit. You can see a movement in the back. You decide to advance step by step when suddenly, the thing turns around and jump on you! It's a %s! You cannot dodge the fight.
+101:The %s finally falls on the ground. You clean your blade. Behind the creature, you discover the access to the stairs going down.
+102:Go down the stairs to Floor -2
+
+
+110:You are in front of the door. Despite it is old, the handle breaks in your hand. You discover a large room lit by mushrooms, full of shelves with old books. Everything seems moldy. Nothing is usable.
+111:Open the next door to continue
+
+
+120:You enter, avoiding walking on rocks. You see absolutely nothing. It is a passage between two rooms, there is no danger.
+121:Stay in this passage to take a break
+122:Continue and enter the room in front of you
+
+
+130:At the end of the room, you find a door leading to a dark stair going deeper. It seems all paths here lead to this place.
+131:Go down the stairs to Floor -2
+
+
+140:You arrive at Floor -2. Here, no lava, but ancient and cold architecture. You are in a large abandoned guard room. In front of you, a massive door.
+
+
+150:You open the other old door, but the handle also breaks. Immediately, you feel two dark presences. You see two %s coming to you. The fight is inevitable!
+160:Following your victory, you decide to enter the next room with a kick in the door. You discover a kitchen with shelves full of food. Most is rotten, but you can see some items still edible.
+165:You enter by the hole in the wall, suspicious. You arrive in a kitchen with food shelves. Most is rotten, but some items seem edible.
+161:Rest and eat the food on the shelves
+
+
+170:After this well-deserved rest, you decide to leave the kitchen and advance in the next room, trying to map the dungeon. You enter a big room with torn banners. Suddenly, a rusty armor moves with a metallic noise. It's a %s! It raises its axe towards you.
+
+
+180:After the fight, silence comes back. You discover two chests that the monster was protecting. The choice is yours (you can only open one before the security mechanism closes the other).
+181:Open Chest #1 (reinforced wood)
+182:Open Chest #2 (black metal)
+183:You open the chest. Inside, you find a priceless reward: %s! After taking your loot, you decide to continue.
+184:Following your fight, you open the chest. It contains: %s. With the item in your pocket, you decide to continue.
+
+
+190:You arrive in a room where mushrooms stop growing. The atmosphere changes totally. Before you, the walls are made of black volcanic rock, and you finally see the stairs going down to the abyss.
+191:Descend to Floor -2
+
+
+200:Here you are on Floor -2. The temperature is unbearable. The walls are leaking lava and the floor is made of black stone. Suffocating heat replaces the humidity. Before you, three arches carved in the rock.
+201:Take the left arch which vibrates
+202:Go to the central arch where a chest is alone
+203:Take the right arch, strangely clean
+
+
+210:You go left. The ground shakes. A creature made of molten rock comes out of the wall. It is a Magma Golem! The heat is intense. Fight!
+
+
+220:You advance towards the center. The room is empty, except for a beautiful chest in the middle. It looks too good to be true.
+221:Open the chest without hesitation
+222:Hit it with your sword to check
+223:The chest opens suddenly revealing sharp teeth! It is a Mimic! It bites your hand violently. (Damages taken before combat).
+224:Well seen! At the moment of the impact, the chest screams. It's a Mimic, but you have the initiative!
+
+
+230:You pass the right arch. You discover with surprise a small white stone church, magically preserved from the lava. It is a divine place of peace.
+231:Kneel and pray to recover your strength
+232:A warm light surrounds you. Your burns disappear. A voice whispers: "The hardest part is coming." Your health points are fully restored.
+
+
+240:No matter which path you took, you arrive at a bridge over a river of lava. The heat burns your face. You run to reach the door on the other side.
+241:Break the metal door
+
+
+250:You enter what looks like an ancient forge. Instead of food, you find pools of fresh water. The water is warm but drinkable.
+251:Drink water and rest for a moment
+
+
+260:You leave the forge. It is a huge armory. Two black armors, animated by dark magic, guard the exit. They take their swords. Prepare for a difficult fight!
+
+
+270:The metal of the armors falls on the ground. Silence returns. At the back, two black iron chests await you.
+271:Open the War Chest (Left)
+272:Open the Runic Chest (Right)
+273:In the War Chest, you find a weapon forged in volcanic steel: %s!
+274:In the Runic Chest, you find an enchanted artifact: %s!
+
+
+280:Once equipped, you push the last door. A huge stair descends even lower. A smell of sulfur and distant roars come from the depths. Floor -3 awaits you.
+281:Descend to face your destiny (Floor -3)
+
+
+290:After a very long descent, the heat intensifies. You understand that you are inside a volcano: the lair of the beast. You see two dark stone arches in front of you.
+291:Go right (Room with red banners)
+292:Go left (Room with lava flows)
+
+
+300:You enter a large hall with blood-red banners and black armors. You see a table full of food, keeping edible thanks to the heat.
+301:Eat the entire buffet
+
+
+310:You enter a room with lava on the walls. In front of you are 3 absolutely beautiful chests. Choose quickly before the lava destroys them!
+311:Open Chest 1 (Golden glow)
+312:Open Chest 2 (Red glow)
+313:Open Chest 3 (Silver glow)
+314:You obtain a Legendary Sword! Its blade shines like a god.
+315:It's a trap! The chest is an Ancient Mimic. It attacks you immediately!
+316:You obtain a Legendary Armor! It looks unbreakable.
+
+
+320:You leave the room and arrive in a huge hall. You understand that you are truly in the volcano's magma chamber. Strangely, in the middle is a mountain of treasures and jewels. But a huge mass moves behind the mountain of gold. It couldn't be that simple. The closer the beast gets, the more gigantic it appears. It's a Dragon! The biggest battle of your history begins.
+
+
+330:Bravo! You won! The Dragon is defeated and the treasure is finally yours. You return to the village as a legendary hero.
+331:Unfortunately, you lost... You have no choice but to start all over again. A lack of skill, maybe?

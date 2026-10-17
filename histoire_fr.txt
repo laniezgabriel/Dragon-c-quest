@@ -1,0 +1,129 @@
+1:En tant que %s, un chevalier tout juste sorti de la caserne, vous êtes revenu dans votre village natal pour le protéger. En cette belle et douce matinée, vous vous réveillez dans votre lit.
+2:Se réveiller et se lever
+3:Continuer à dormir
+4:Bien joué ! Vous avez choisi la meilleure option : en dormant, les problèmes ne peuvent pas vous atteindre. Vous avez découvert la fin secrète. GAME OVER (Happy Ending).
+10:Après l'entraînement et votre tour de garde, vous prenez une pause pour manger. Au loin, un attroupement se forme : le messager du Roi est arrivé et cherche %s. Vous y allez et il vous remet une missive royale.
+11:Ouvrir la lettre et la lire
+12:Ne pas l'ouvrir et la jeter
+13:Malheureusement, refuser un ordre royal est un crime. Le Roi a ordonné votre exécution immédiate. C'est la fin pour vous. Peut-être un manque de skill ? GAME OVER.
+20:À notre loyal sujet %s. Sachez qu'un terrible éboulement a secoué les Monts du Nord. De la poussière est apparue une Forteresse antique, oubliée des hommes. Nous vous ordonnons de vous y rendre sans délai, d'en braver les périls et de percer ses mystères au nom de la Couronne.
+30:Ayant accepté la mission, vous vous empressez de vous préparer pour l'aventure. %s  reçoit +1 une épée en fer, +1 une armure complète en fer et +1 sac à dos pour le voyage.vous vous mettait en route vers les montagnes
+
+
+40:Le voyage fut long. Vous êtes au pied de cette immense montagne. Autour de vous, des amas de gravats gisent au sol ; on dirait que la montagne a explosé de l'intérieur. À travers les rochers, vous distinguez une entrée couverte de mousse, mais accessible.
+41:Prendre votre courage à deux mains et entrer dans le donjon
+42:Faire une sieste et dormir sous les arbres avant d'y aller
+43:Suite à votre sieste, vous vous sentez nettement mieux. Après ce dur et long voyage, ce repos était bénéfique. %s reçoit +1 point de Force et +1 point de Vie. Vous êtes prêt à entrer.
+
+50:Vous arrivez dans une énorme entrée avec de magnifiques colonnes montant jusqu'au plafond. Même si l'endroit est sous la montagne, une douce lumière traverse les trous dans les murs pour vous éclairer. Vous distinguez des escaliers au fond, mais aussi des armoires et des caisses en bois.
+51:Prendre les escaliers
+52:Fouiller la pièce
+53:Vous décidez de fouiller la pièce. À votre droite se trouve une rangée d'armoires avec de nombreux manuscrits poussiéreux. À votre gauche, des caisses en bois reposent contre un pilier. Enfin, au centre, un éboulement de gravats semble déplaçable.
+54:Fouiller les armoires remplies de vieux livres
+55:Fouiller les caisses en bois à votre gauche
+56:Déplacer le monticule de cailloux au milieu
+
+60:En fouillant, un livre attire votre attention : il est sans poussière. Vous tirez dessus et un énorme bruit retentit ! Le mur tremble et l'armoire pivote, révélant un passage sombre et sinistre. Votre âme vous crie d'y entrer malgré la peur.
+61:Vous cassez les caisses une par une avec votre épée. Soudain, votre lame bute sur quelque chose. Vous sortez l'objet : %s reçoit un (objet)!
+62:En déplaçant le monticule de terre... rien. Il n'y avait absolument rien dessous. Déçu et frustré d'avoir perdu votre temps, vous vous dirigez vers les escaliers.
+
+70:Vous descendez les marches dures et humides une par une. Vous sentez que vous vous enfoncez de plus en plus dans la montagne. Une pression et une fraîcheur oppressantes règnent en ces lieux. La pénombre s'intensifie, mais vous continuez votre descente jusqu'à arriver à l'étage -1.
+71:Vous débouchez dans une vaste crypte. L'air est lourd, imprégné d'une odeur de cuivre et de pourriture. La seule lumière provient de champignons phosphorescents accrochés aux murs, projetant des ombres inquiétantes sur le sol glissant. Trois voies s'offrent à vous dans cette pénombre.
+72:Prendre l'arche de gauche, d'où proviennent des bruits inquiétant est suspect
+73:Continuer dans le trou du mur , où quelque chose semble scintiller
+74:Se diriger vers la petit porte en fer sur la droite
+
+80:Après l'ouverture de l'armoire, un énorme coup de vent vous frappe de plein fouet. Même s'il est chaud, votre corps reste glacé d'effroi. Trop tard pour reculer, vous vous engouffrez dans l'escalier obscur. L'escalier en colimaçon semble descendre à l'infini et l'air devient sulfureux. Vous réalisez que vous contournez tout un niveau.
+
+90:Vous débouchez enfin dans un couloir taillé dans une roche volcanique noire. La chaleur est écrasante. Vous êtes arrivé directement à l'étage -2.
+
+100:Vous vous engagez dans la pièce sombre, très légèrement éclairée. Vous distinguez à peine des remous dans le fond. Vous décidez d'avancer pas à pas quand soudain, la chose se retourne et vous saute dessus ! C'est un %s ! 
+101:Vous ne pouvez pas esquiver le combat.
+102:Bravo vous avez triomphe du monstre (nom_joueur)recoit object vous passer la porte triomphant 
+103:Malheureusement vous vous etez fait detruire par le monstre peut etre un petit manque de skill (game over)
+
+110:Vous êtes devant la porte. Malgré sa vétusté, elle résiste et la poignée vous reste dans la main à l'ouverture. Vous découvrez une grande pièce éclairée par des champignons lumineux, recouverte d'étagères de vieux livres et de manuscrits. Tout semble moisi et rongé par l'humidité du lieu. le (nom_joeur) recois un object.
+111:Ouvrir la porte suivante pour continuer
+
+120:Vous entrez en évitant de marcher sur les rochers pour ne pas trébucher. Vous ne voyez absolument rien. C'est un passage intermédiaire entre deux salles, il n'y a aucun danger.
+121:Rester dans ce passage pour faire une pause
+122:Continuer et entrer dans la pièce devant vous où le mur s'est effondré
+
+123:Malheureusement la piece ces effondrait sur vous meme peut etre un manque de skill( game over)
+
+150:Vous ouvrez l'autre porte vétuste, mais la poignée vous reste aussi dans les mains. Immédiatement, vos sens sont alertés par deux présences obscures. Vous voyez deux %s avancer vers vous. 
+151:Le combat est inévitable !
+
+160:Suite à votre triomphe, vous décidez d'entrer dans la prochaine salle d'un coup de pied magistral qui envoie la porte au loin. Vous découvrez une cuisine avec des étagères remplies de nourriture. La plupart est pourrie, mais vous distinguez certains aliments encore comestibles.
+161:Se reposer et manger les aliments sur les étagères
+165:Vous passez par le trou dans le mur, méfiant. Vous arrivez dans une cuisine avec des étagères remplies de nourriture. La plupart est pourrie, mais certains aliments semblent encore comestibles.
+
+apres votre repot bien merite vous decidez de quitter la cuisine et davancer dans la salle suivante cherchant a repertorier tout la superficie de ce donjon(imagine une nouvelle salle avec cette fois un nouveaux monstre)
+
+suite a votre combat vous decouverez a fond de la piece de coffre que les monstres proteger a vous de choisir votre recompense
+coffre 1
+coffre 2
+
+170:Après ce repos bien mérité, vous décidez de quitter la cuisine et d'avancer dans la salle suivante, cherchant à répertorier toute la superficie de ce donjon. Vous pénétrez dans une vaste salle de réception aux bannières déchirées. Soudain, un brut grincement ce fait entendre au loin. C'est une %s ! 
+171:le combat ne peut etre eviter il est temps de ce batte.
+180:Suite à votre combat, le silence retombe. Vous découvrez au fond de la pièce deux coffres que le monstre protégeait. À vous de choisir votre récompense (vous ne pouvez en ouvrir qu'un seul avant que le mécanisme de sécurité ne scelle l'autre).
+181:Ouvrir le Coffre n°1 (en bois renforcé)
+182:Ouvrir le Coffre n°2 (en métal noir)
+
+183:Vous ouvrez le coffre. À l'intérieur, vous trouvez une récompense inestimable : %s ! Après avoir récupéré votre butin, vous décidez de continuer en traversant le couloir.
+184:Suite à votre combat, vous ouvrez le coffre. Il contient : %s. Une fois l'objet en poche, vous décidez de continuer et vous vous engagez dans le long couloir devant vous.
+190:Vous arrivez dans une salle où les champignons cessent brusquement de pousser. L'atmosphère change radicalement. Devant vous, les murs sont faits d'une roche noire volcanique et vous voyez enfin les escaliers tant attendus descendant vers les abysses.
+191:Descendre vers l'étage -2
+
+200:Vous voilà à l'étage -2. La température est insoutenable. Les murs suintent de lave et le sol est constitué de plaques d'obsidienne noire. Une chaleur étouffante remplace l'humidité de la crypte. Devant vous, trois arches taillées dans la roche volcanique.
+201:Prendre l'arche de gauche qui vibre sous des bruits sourds
+202:Aller vers l'arche centrale où trône un coffre solitaire
+203:Prendre l'arche de droite, étrangement intacte et propre
+
+210:Vous vous engagez à gauche. Le sol tremble. Une créature faite de roche en fusion se détache du mur. C'est un Golem de Magma ! La chaleur qu'il dégage est intense. Combat !
+
+220:Vous avancez vers le centre. La salle est vide, à l'exception d'un magnifique coffre au milieu. Il semble trop beau pour être vrai.
+221:Ouvrir le coffre sans hésiter
+222:Donner un coup d'épée dedans pour vérifier
+223:Le coffre s'ouvre brusquement, révélant une rangée de dents acérées ! C'est un Mimic ! Il vous mord violemment la main. (Dégâts subis avant le combat).
+224:Bien vu ! Au moment de l'impact, le coffre pousse un cri strident. C'est un Mimic, mais vous avez l'avantage de l'initiative !
+
+230:Vous passez l'arche de droite et le bruit du volcan s'estompe. Vous découvrez avec stupeur une petite chapelle en pierre blanche, miraculeusement préservée de la lave. Des vitraux intacts représentent des scènes d'un autre temps. C'est un havre de paix divin.
+231:S'agenouiller et prier pour recouvrer ses forces
+232:Une lumière chaleureuse vous enveloppe. Vos brûlures disparaissent instantanément. Une voix murmure : "Le plus dur reste à venir". Vos points de vie sont entièrement restaurés. Vous ressortez apaisé.
+
+240:Peu importe le chemin emprunté, vous arrivez devant un pont suspendu au-dessus d'une rivière de lave. La chaleur vous brûle le visage. Vous traversez en courant pour atteindre la porte de l'autre côté.
+241:Enfoncer la porte métallique
+
+250:Vous entrez dans ce qui ressemble à une ancienne forge. Au lieu de nourriture, vous trouvez ici des bassins d'eau fraîche (utilisés pour tremper l'acier) et des établis. L'eau est tiède mais buvable, et la chaleur des fourneaux est plus supportable ici.
+251:Boire l'eau et se reposer un instant près des établis
+
+260:Vous quittez la forge pour la salle suivante. C'est une immense armurerie. Deux ombres noires, animées par une magie sombre, gardent la sortie. Elles  en même temps. Prépavous charge preparez vous à un combat difficile !
+
+270:Le silence revient. Au fond de l'armurerie, deux coffres en fer noir vous attendent.
+271:Ouvrir le Coffre de Guerre (Gauche)
+272:Ouvrir le Coffre Runique (Droite)
+273:Dans le coffre de guerre, vous trouvez une arme forgée dans l'acier du volcan : %s !
+274:Dans le coffre runique, vous trouvez un artefact enchanté : %s !
+
+280:Une fois équipé, vous poussez la dernière porte. Un escalier colossal descend encore plus bas. Une odeur de soufre insupportable et des rugissements lointains remontent des profondeurs. L'étage -3, l'antre de la bête, vous attend.
+281:Descendre affronter votre destin (Étage -3)
+
+290:Après une très longue descente, la chaleur s'intensifie. Vous comprenez que vous êtes à l'intérieur d'un volcan : l'antre de la bête. Vous voyez deux arches en pierre sombre devant vous.
+291:Aller à droite (Salle aux étendards rouges)
+292:Aller à gauche (Salle aux coulées de lave)
+
+300:Vous rentrez dans une grande salle ornée de grands étendards rouge sang et remplie d'armures d'un noir étincelant. Vous voyez une table remplie de nourriture, restée entièrement comestible grâce à la chaleur ambiante qui maintient les plats au chaud.
+301:Déguster l'entièreté du buffet
+
+310:Vous rentrez dans une salle avec des coulées de lave sur les murs. Devant vous se trouvent 3 coffres absolument radieux. Choisissez vite un coffre avant que la lave ne les emporte !
+311:Ouvrir le Coffre 1 (Lueur dorée)
+312:Ouvrir le Coffre 2 (Lueur rouge)
+313:Ouvrir le Coffre 3 (Lueur argentée)
+314:Vous obtenez une Épée Légendaire ! Sa lame brille d'un éclat divin.
+315:C'est un piège ! Le coffre est un Mimic Ancien. Il vous attaque immédiatement !
+316:Vous obtenez une Armure Légendaire ! Elle semble impénétrable.
+
+320:Vous sortez de la pièce et débouchez dans une salle énorme. Vous comprenez que vous êtes vraiment dans la chambre magmatique du volcan. Bizarrement, au milieu se trouve une montagne de trésors et de joyaux, d'un or scintillant réfléchissant la lumière de la lave. Mais une énorme masse bouge derrière la montagne d'or. Cela ne pouvait pas être aussi simple. Plus la bête s'approche, plus elle paraît gigantesque. C'est un Dragon ! Le plus grand combat de votre histoire commence.
+330:Bravo ! Vous avez gagné ! Le Dragon est vaincu et le trésor est enfin à vous. Vous rentrez au village en héros légendaire.
+331:Malheureusement, vous avez perdu... Il ne vous reste plus qu'à tout recommencer. Un petit manque de skill, peut-être ?
